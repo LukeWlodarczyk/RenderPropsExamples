@@ -1,5 +1,7 @@
 #Render Props example components
 
+## Components
+
 - ErrorBoundaries
 - FetchData
 
